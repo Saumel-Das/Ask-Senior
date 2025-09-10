@@ -1,1 +1,2 @@
-# Ask-Senior
+This repository contains my solutions to the Road to Candidate Master Sheet by Ask Senior, where I practice and solve all the topic based problems on Codeforces, Codechef, Atcoder, CSES etc.  
+https://www.asksenior.in/learn
